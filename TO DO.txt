@@ -1,0 +1,7 @@
+Don't see how that would help me in this case, the issue is that it isn't caught which means there is a logic error somewhere. Easiest thing is always to rewrite. Everything else is up and running, have made it so multiple network SSID's can be added, each allowing a multitude of proxies. 
+
+Just have to get that input working right, then allow editing which is pretty much the same as the add section with just the details pre-filled, then get make a bat file to create a shortcut for auto-starting the program and still make a help window where I'll probably just make a cardboard layout with section selection on the left side, each having a video of the help section or maybe just text in order to save on file space. The entire jar file is currently 78kB big, if I add the videos it will probably hit a couple of megs, might just be easier to upload to YouTube and have the video embedded within the app with a warning that it will stream it off the net.
+
+EDIT: And I also want to get the system tray icon to spin while scanning and allow a custom setting for how often the scan should take place, maybe allow a setting whereby if it is not on a certain network it will check every x seconds during these hours, which would one would select the hours one goes to work/uni in my case.
+
+EDIT 2: Store Proxies asf in sqlite db.
